@@ -38,9 +38,53 @@ h2{
     font-weight: bold;
 }
 
+
 footer{
     text-align: center;
     padding: 10px;
     background-color: rgb(208, 206, 206);
     justify-content: center;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+thead{
+    
+  background-color: rgb(25, 0, 255);
+  color: aliceblue;
+}
+
+
+.no-border {
+    border: none !important;
+}
+
+
+
+    h4{
+        text-align: center;
+        color: #1a237e;
+    }
+
+    th {
+        background-color: #4f7cac;
+        color: white;
+        padding: 10px;
+        border: 1px solid #2c4f75;
+    }
+
+    td {
+        padding: 10px;
+        border: 1px dotted #2c4f75;
+    }
+    .espace{
+        padding-left: 20px;
+    }
+    #web{
+        color: #1a237e;
+        font-size: large;
+
+    }
