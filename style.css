@@ -1,0 +1,46 @@
+body{
+    padding-right: 100px;
+    padding-left: 100px;
+    
+}
+.container{
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+}
+nav {
+  background-color: rgb(24, 24, 123); /* fond de la nav */
+  padding: 8px;
+  justify-content :center;
+  display: flex;
+  align-items: center;
+  gap: 30px; 
+}
+
+nav a {
+  color: white; /* texte + SVG en blanc */
+  text-decoration: none;
+  align-items: center;
+  display: flex;  
+}
+img{
+    padding : 0px;
+    margin-top: 10px;
+}
+#nombre{
+padding-left: 50px;
+font-size: large;
+}
+.hablad{
+    font-size: large;
+}
+h2{
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(208, 206, 206);
+    justify-content: center;
+}
