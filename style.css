@@ -96,3 +96,25 @@ thead{
     padding: 2px;
     font-size: 1.2rem;
     }
+    figure {
+  margin: 0;
+  /* Quita el margen que los navegadores ponen por defecto */
+  padding: 10px;
+  text-align: center;
+  /* Centra el figcaption si quieres que esté en medio */
+}
+figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 5px;
+}
+
+#imagemap{
+      max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+#lien{
+    text-align: center;
+}
