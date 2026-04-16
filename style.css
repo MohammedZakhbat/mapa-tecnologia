@@ -89,3 +89,10 @@ thead{
         font-size: large;
 
     }
+
+    summary{
+    background-color: steelblue;
+    color: white;
+    padding: 2px;
+    font-size: 1.2rem;
+    }
